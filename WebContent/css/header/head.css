@@ -1,0 +1,55 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 15, 2017, 2:58:38 PM
+    Author     : haitran
+*/
+.head{
+    margin-left: -0.5em;
+    margin-right: -0.5em;
+    height: 6.25em;
+}
+.head .image{
+    background-color: green;
+    height: 6.25em;
+}
+.head .image img{
+    padding-top: 0.25em;
+    margin-left: 4em;
+    width: 6em;
+    height: 6em;
+}
+.head .form .find{
+    width: 30em;
+}
+.head .form .find #text1{
+    width: 25em;
+    display: inline-block;
+    border: 0.1em solid #ccc;
+    border-radius: 4em;
+    box-sizing: border-box;
+    padding-top: 1em;
+    padding-left: 3em;
+    padding-bottom: 1em;
+}
+.head .form .find #search{
+    width: 5em;;
+    display: inline-block;
+    border: 0.1em solid #ccc;
+    border-radius: 2em;
+    box-sizing: border-box;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.head .form{
+    margin-left: 20em;
+    margin-top: -4.5em;
+}
+.head .lg{
+    margin-top: -2em;
+    margin-left: 75em;
+}
+
